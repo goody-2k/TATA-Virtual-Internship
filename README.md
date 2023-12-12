@@ -56,7 +56,9 @@ previous task. Ensure that you possess a thorough understanding of the data and 
 The leaders are particularly focused on expansion and are keen to grasp the most lucrative opportunities within their business.
 
 
+# Links to my visualization
 
+visual 1: https://public.tableau.com/views/TataDataVisualisation_17000655402860/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 
 
